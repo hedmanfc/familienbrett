@@ -14,5 +14,5 @@ self.FAMILIENBRETT = {
   // Firebase → Projekteinstellungen → Cloud Messaging → Web-Push-Zertifikate → Schlüsselpaar
   vapidKey: "BFSKPaGlmdrKAQzF9gJ-qiz9Y0gtOCKsgJDWJkoMeKr4XkB8ho_c3vc3kpG505UFAmz4pdwsacKKSqhxzKvTvBY",
   // Adresse deines Cloudflare-Workers, z. B. https://familienbrett.deinname.workers.dev
-  workerUrl: "HIER-EINFUEGEN"
+  workerUrl: "https://familienbrett.timhartmann-effzeh.workers.dev"
 };
